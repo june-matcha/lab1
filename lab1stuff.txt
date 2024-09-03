@@ -1,0 +1,16 @@
+Hello!
+
+Please enter the following information.  First, change "Name" to "My name"
+below.  Then provide your name and class year, which must be on the same lines
+as "My name" and "Class year," respectively.  Then answer the question about
+the person sitting next to you, leaving a space between the question and your
+neighbor's name.  Finally, delete the "Something interesting" block of text 
+and replace it with your response.
+
+
+My name: June Matchavariani
+Class year: 2028
+
+What is the name of one of your colleagues sitting near you? Christopher Voong
+
+Mexican + can rock-climb + cool pronouns
